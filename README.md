@@ -6,7 +6,7 @@ The sprite plays through an 11-frame idle animation loop, similar to the classic
 
 ## Demo
 
-*(Add a photo or short video of your screen here once you have one — this is the best part of the README!)*
+https://github.com/user-attachments/assets/5820035d-f03a-4dbc-b495-b337ab8bb1d8
 
 ## Hardware used
 
